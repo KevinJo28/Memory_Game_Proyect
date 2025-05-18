@@ -7,5 +7,5 @@ ventana.minsize(1100, 800)
 canvas = Canvas(ventana)
 canvas.pack(fill='both', expand=True)
 
-
+"MainLoop"
 ventana.mainloop()
